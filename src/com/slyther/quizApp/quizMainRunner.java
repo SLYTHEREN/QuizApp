@@ -3,9 +3,14 @@ package com.slyther.quizApp;
 public class quizMainRunner {
 	public static void main(String[] args) {
 
-		for (int i = 10; i <= 11; i--) {
-			System.out.println("hello World");
 
+
+		quizMain question = new quizMain();
+		
+
+
+
+		
 		}
 		/*
 		 * JFrame frame = new JFrame("My First GUI");
