@@ -19,6 +19,9 @@ public class quizMain {
 	// we need a detailed structure as well 
 
 	/* we need to set getters and setters */
+	/* we need a structure about how the program is going to work: \
+ 	qadd questions : 
+	 add options */
 
 }
 
