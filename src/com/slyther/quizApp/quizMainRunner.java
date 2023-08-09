@@ -7,10 +7,10 @@ public class quizMainRunner {
 
 		quizMain question1 = new quizMain();
 		question1.setQuestion("First question");
-		questions1.setOption1("A");
-		questions1.setOption2("B");
-		questions1.setOption3("C");
-		questions1.setOption4("C");
+		questions1.setMCQ1("A");
+		questions1.setMCQ2("B");
+		questions1.setMCQ3("C");
+		questions1.setMCQ4("C");
 		// still unsure about what to start with
 
 
