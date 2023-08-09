@@ -1,1 +1,1 @@
-
+Aditya shall write a simple algorithm for how the program is going to work and then i will start the backend programming
