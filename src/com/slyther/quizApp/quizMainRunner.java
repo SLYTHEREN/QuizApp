@@ -4,6 +4,7 @@ public class quizMainRunner {
 	public static void main(String[] args) {
 
 
+		/* we need to create a constructor as well so that we can input the question and the options while declaring the object*/
 
 		quizMain question1 = new quizMain();
 		question1.setQuestion("First question");
