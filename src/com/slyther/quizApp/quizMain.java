@@ -8,6 +8,14 @@ public class quizMain {
 	 * Jswing and other frameworks which i need to research on
   better framework needed
 	 */
+	 private String questionText;
+    	private List<String> options;
+    	private int correctOptionIndex;
+    	private String multimediaPath;
+
+
+
+	
 	private int request;
 	private boolean data; 
 	private String question;
