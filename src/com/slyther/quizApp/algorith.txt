@@ -1,1 +1,14 @@
-Aditya shall write a simple algorithm for how the program is going to work and then i will start the backend programming
+So Plan is changed : Algorithm is now written ! 
+
+Structure for the program : :
+
+We need a admin mode as well as a user mode 
+OR else we could enter questions ourselevs in the code and just display the answers but that would be complicated. 
+We can also make a data base and make a forms for inputting the question.
+
+So firstly we need a admin class 
+we also need a main class
+and a runner class
+
+Admin Class : 
+Admin powers hwhich let them enter option
