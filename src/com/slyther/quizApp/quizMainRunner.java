@@ -2,6 +2,8 @@ package com.slyther.quizApp;
 
 public class quizMainRunner {
 
+   
+
 
 	public QuizApp(List<Question> questions) {
         this.questions = questions;
@@ -36,13 +38,12 @@ public class quizMainRunner {
         // Create Admin instance to add questions
         // Pass the list of questions to QuizApp
         // Call startQuiz method to begin the quiz
-    }
+   
 	
 
 
 
 	
-	public static void main(String[] args) {
 
 
 		/* we need to create a constructor as well so that we can input the question and the options while declaring the object*/
@@ -73,4 +74,8 @@ public class quizMainRunner {
 		 */
 
 	}
-}
+    public class QUESTION(){
+        private int numberOfQuestions;
+
+
+        }
