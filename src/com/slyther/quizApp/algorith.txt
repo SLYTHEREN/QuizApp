@@ -11,4 +11,5 @@ we also need a main class
 and a runner class
 
 Admin Class : 
-Admin powers hwhich let them enter option
+Admin powers which let them enter option and questions as well 
+
